@@ -13,7 +13,7 @@
 </p>
 
 ## 📁 Project access
-You can access the project files by clicking [here](https://github.com/Coastony/app_help_desk)
+You can access the project files by clicking [here](https://github.com/Coastony/app_send_mail)
 
 
 ## 🔎 Link of project
